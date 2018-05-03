@@ -5,4 +5,5 @@ xkb_symbols "umlauts" {
   key <AC01> { [ a, A, adiaeresis, Adiaeresis ] };
   Key <AC02> { [ s, S, ssharp,     Ssharp ] };
   key <AD03> { [ e, E, EuroSign,   EuroSign ] };
+  key <AD10> { [ p, P, section ] };
 };
